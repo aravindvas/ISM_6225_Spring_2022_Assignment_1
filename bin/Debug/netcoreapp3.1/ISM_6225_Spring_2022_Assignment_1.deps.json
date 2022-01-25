@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ISM_6225_Spring_2022_Assignment_1/1.0.0": {
+        "runtime": {
+          "ISM_6225_Spring_2022_Assignment_1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ISM_6225_Spring_2022_Assignment_1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
