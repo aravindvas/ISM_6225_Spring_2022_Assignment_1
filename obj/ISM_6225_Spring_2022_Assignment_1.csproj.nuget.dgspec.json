@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ARAVINDVAS\\Desktop\\USF Academic\\Distributed Information Systems - ISM6225\\Assignments\\Assignment3\\ISM_6225_Spring_2022_Assignment_1.csproj": {}
+    "C:\\Users\\ARAVINDVAS\\Desktop\\USF Academic\\Distributed Information Systems - ISM6225\\Assignments\\Assignment1\\ISM_6225_Spring_2022_Assignment_1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ARAVINDVAS\\Desktop\\USF Academic\\Distributed Information Systems - ISM6225\\Assignments\\Assignment3\\ISM_6225_Spring_2022_Assignment_1.csproj": {
+    "C:\\Users\\ARAVINDVAS\\Desktop\\USF Academic\\Distributed Information Systems - ISM6225\\Assignments\\Assignment1\\ISM_6225_Spring_2022_Assignment_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ARAVINDVAS\\Desktop\\USF Academic\\Distributed Information Systems - ISM6225\\Assignments\\Assignment3\\ISM_6225_Spring_2022_Assignment_1.csproj",
+        "projectUniqueName": "C:\\Users\\ARAVINDVAS\\Desktop\\USF Academic\\Distributed Information Systems - ISM6225\\Assignments\\Assignment1\\ISM_6225_Spring_2022_Assignment_1.csproj",
         "projectName": "ISM_6225_Spring_2022_Assignment_1",
-        "projectPath": "C:\\Users\\ARAVINDVAS\\Desktop\\USF Academic\\Distributed Information Systems - ISM6225\\Assignments\\Assignment3\\ISM_6225_Spring_2022_Assignment_1.csproj",
+        "projectPath": "C:\\Users\\ARAVINDVAS\\Desktop\\USF Academic\\Distributed Information Systems - ISM6225\\Assignments\\Assignment1\\ISM_6225_Spring_2022_Assignment_1.csproj",
         "packagesPath": "C:\\Users\\ARAVINDVAS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ARAVINDVAS\\Desktop\\USF Academic\\Distributed Information Systems - ISM6225\\Assignments\\Assignment3\\obj\\",
+        "outputPath": "C:\\Users\\ARAVINDVAS\\Desktop\\USF Academic\\Distributed Information Systems - ISM6225\\Assignments\\Assignment1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ARAVINDVAS\\AppData\\Roaming\\NuGet\\NuGet.Config",
